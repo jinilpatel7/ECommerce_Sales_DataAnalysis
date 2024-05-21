@@ -11,26 +11,30 @@ PROBLEM STATEMENT:
 
 KPI Requirements
 
-Sales Overview
-    Total Sales: Total revenue generated from sales.
-    Total Orders: Total number of orders placed.
-    Average Order Value: Average value of each order (Total Sales / Total Orders).
-    Sales Trend Over Time: Monthly/Yearly sales trends to identify seasonal patterns and growth rates.
-Customer Analysis
-    Customer Segments: Distribution of customers across segments (Consumer, Corporate, Home Office).
-    Top Customers: List of top customers by sales revenue.
-    New vs. Returning Customers: Proportion of new customers versus returning customers.
-Product Performance
-    Top-Selling Products: Products with the highest sales revenue.
-    Sales by Category/Sub-Category: Breakdown of sales by product categories and sub-categories.
-    Product Profitability: Profit margins for each product (Profit / Sales).
-Geographical Insights
-    Sales by Region/Country: Revenue distribution across different regions and countries.
-    Top Cities: Cities with the highest sales revenue.
-Financial Metrics
-    Total Profit: Total profit generated (Sales - Costs).
-    Profit by Category: Profit distribution across different product categories.
-    Discount Impact: Analysis of how discounts are affecting sales and profit margins.
+1. Sales Overview
+        Total Sales: Total revenue generated from sales.
+        Total Orders: Total number of orders placed.
+        Average Order Value: Average value of each order (Total Sales / Total Orders).
+        Sales Trend Over Time: Monthly/Yearly sales trends to identify seasonal patterns and growth rates.
+   
+2. Customer Analysis
+        Customer Segments: Distribution of customers across segments (Consumer, Corporate, Home Office).
+        Top Customers: List of top customers by sales revenue.
+        New vs. Returning Customers: Proportion of new customers versus returning customers.
+   
+3. Product Performance
+        Top-Selling Products: Products with the highest sales revenue.
+        Sales by Category/Sub-Category: Breakdown of sales by product categories and sub-categories.
+        Product Profitability: Profit margins for each product (Profit / Sales).
+   
+4. Geographical Insights
+        Sales by Region/Country: Revenue distribution across different regions and countries.
+        Top Cities: Cities with the highest sales revenue.
+   
+5. Financial Metrics
+        Total Profit: Total profit generated (Sales - Costs).
+        Profit by Category: Profit distribution across different product categories.
+        Discount Impact: Analysis of how discounts are affecting sales and profit margins.
 
 
 
